@@ -1,1 +1,1 @@
-print("Hello!")
+print("Je suis un script corrigé")
